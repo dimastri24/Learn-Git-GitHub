@@ -6,3 +6,6 @@ kita bisa lihat, gk akan ngaruh ke branch master
 saat ini file nya telah di merge ke cabang master
 dengan melakukan pull request
 setelah di confirm merge, branch boleh dihapus dgn aman
+
+=============================
+file ini di update sama branch coba-fitur-1
