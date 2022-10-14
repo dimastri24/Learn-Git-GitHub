@@ -1,2 +1,4 @@
 Ini file baru yang dibuat di branch cabang-repo
-lalu kita commit
+
+Sekarang aku update file ini
+kita bisa lihat, gk akan ngaruh ke branch master
