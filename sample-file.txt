@@ -1,7 +1,4 @@
 Test membuat text file langsung di github nya
 
-ada yang ketinggalan, kalimat ini akan di delete di commit setelah menyimpan update ini
-setelah itu kita akan lihat kembali perbedaan di history commit
-
 Melakukan perubahan pada text file
 Cek perubahan commit di history
